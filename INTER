@@ -1,3 +1,86 @@
-
-
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1",Ariana TV National
 https://d10rltuy0iweup.cloudfront.net:443/ATNNAT/myStream/chunklist_w940255164.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ariana TV US
+https://d2g7v53450s2i2.cloudfront.net:443/ATNUS/myStream/chunklist_w1077188097.m3u8
+#EXTINF:0 type="stream" channelId="-1",Bahar TV
+https://59d39900ebfb8.streamlock.net:443/bahartv/bahartv/chunklist_w1387547088.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bahrain International
+https://5c7b683162943.streamlock.net:443/live/ngrp:bahraininternational_all/chunklist_w362981072_b1700000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Barya TV
+http://51.210.199.56/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1", Berita Satu World
+https://b1world.beritasatumedia.com:443/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:0 type="stream" channelId="-1", Blomberg TV  Ásia 
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-4-VmYRYIYETkuD_live.m3u8
+#EXTINF:0 type="stream" channelId="-1",CGNT
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",CGTN Documentary
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1",CGTN Epanhol
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CGTN Europe
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1",CGTN Russian
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Classic Arts Showcase
+https://classicarts.akamaized.net:443/hls/live/1024257/CAS/master_720p30.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNA Internacional 
+https://d2e1asnsl7br7b.cloudfront.net:443/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 type="stream" channelId="-1",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1",DW Arabic
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1",DW Espanhol 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1",DW +
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/stream05/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1",ETB Basque
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:0 type="stream" channelId="-1",Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/chunklist_w409568377.m3u8
+#EXTINF:0 type="stream" channelId="-1",Euronews German
+https://stream.ads.ottera.tv/cl/d97b299e-06d7-40c7-bb14-32a3077367cd/1280x720_1500000_0_f.m3u8
+#EXTINF:0 type="stream" channelId="-1",Euronews Italian
+https://stream.ads.ottera.tv/cl/48947715-7a6e-44ae-a675-f8e5cbef9d5a/1280x720_1500000_0_f.m3u8
+#EXTINF:0 type="stream" channelId="-1",Euronews Espanhol 
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667238075/ei/WrRfY4z1Lambg8UPwZ22-AM/ip/83.138.55.36/id/HYE67W-35KI.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr1---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/672500/mh/II/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/1/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667216439/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANvlWkmQE6V8a0cfgg-jsNXVm9X7FZz0ZZtkJ8qzt3r-AiEAqUnoYakXM4U2WxHS8geL0mCfmgNyl8tU8iYtip9xCq4%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAMOW_gEiL4PS1AzvxoVTW9E5PsvQwJgqJUll8WBfOXOlAiEAo_P_1jgXcY-qmbj-V4d2yfBiSHNNtKGtRgsrHKj_LBg%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Faza TV
+https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
+#EXTINF:0 type="stream" channelId="-1",Fight Sports
+https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1",France 24 English
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667238776/ei/GLdfY5X0K83MW7uIsfgO/ip/185.22.154.19/id/h3MuIUNCCzI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/643750/mh/wT/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/1/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667216682/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgdNaivmA4b1WGkqWjX55DjjIlFcMYPVPPUpZjrguuae8CICcc-slMi2wCm_Q7y-6-wNn25-GXgtwgAPAYOFOis9sp/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhANI8cPq9ys2LFnIdJFTsdFXNCa4W8SUo2_LaZ3E3uthpAiB3qGvkol3_injue5voVoRGkxn2jY8e-Jy-eEABAiVzUg%3D%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",France 24 Arabic
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667238876/ei/fLdfY4SjCYCK0-kPsfOlkAM/ip/83.138.55.36/id/8BZpOolYLUA.4/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/637500/mh/ad/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667216922/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgTFCHrSRSQmw9xgNYQ31Ht-jODOO8-E4RkX8Vxp81LhICIQC2ZZRBIPm7sDIHCjsGpfLxKgQFEiUyy116LudeMGhS_g%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgemoF3Yq7r2vxYXDYz_kfSGJd-bq4kQkJoDUBOgh_UogCIAsowhj2D__jrChru2byEqZDgFrlSGEjhOhlmBfIIA-R/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",France 24 Espanhol
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667239078/ei/RrhfY9XBBqGw2roPkZWY2AU/ip/83.138.55.36/id/XDJPzMznAjU.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/616250/mh/F9/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/1/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667217159/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgeBPw51Ls2nfZbCRZ1KvDjiBwJIluMxJayUDdG59sY9wCIBjznkrTh1yH1SUSQ2UT8gPkzpbKqbXi83dFqtMyY7M8/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgMuFfR47gKBnJC-n1YDCmWRqgGk8whxjw5i4PA_cYLCYCIQCeEw2s2Z7AmEKenoZuQ4biyxYpiRcor7PKWibcpIkbDw%3D%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Fuel TV
+http://fueltv-fueltv-14-nl.samsung.wurl.com:80/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:0 type="stream" channelId="-1",Hewad TV
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1",Insight TV
+https://insighttv-vizio.amagi.tv:443/playlist1080p.m3u8
+#EXTINF:0 type="stream" channelId="-1",Kayhan TV
+https://playout395.livestreamingcdn.com:443/live/Stream1/chunklist_w1083047891.m3u8
+#EXTINF:0 type="stream" channelId="-1",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:0 type="stream" channelId="-1",KBS 1
+https://1tvhd.gscdn.kbs.co.kr/1tv-01/1tv-01_hd.m3u8?Expires=1667390710&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHZoZC5nc2Nkbi5rYnMuY28ua3IvMXR2LTAxLzF0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY3MzkwNzEwfX19XX0_&Signature=fFLiqdS57RwcFzXaBQhVeuHYxoDi4As503a4NnOYnqE50FtM6kDgIEuTXMN3BH1ORhJa8R5WUHPICzXWWOKAmOJ2gJRANPdQQg8ld1H6i3Y8b0QqtfT~z2g2j1w9OXr1P~7YJEZBhjZydYJ9bGrqjK9XLxy07OKzfl0T0hmYugHIC8RRgS0WmXA6hWy60SsCVSEsxDV2LbQ2NDE5txtzZZohfrTcU91wfHBcQTRr-1SzVgbGzTKO9RKAcV96XrbQLHGkR76COJkCTk9rlF6te6QdJyejpZKvV525f8c98s5d9dHohACo1aPZuWKVMRqRQuPb6wjuXC2hvW5EWG2b5A__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1",KBS 2
+https://2tvhd.gscdn.kbs.co.kr/2tv-01/2tv-01_hd.m3u8?Expires=1667390980&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHZoZC5nc2Nkbi5rYnMuY28ua3IvMnR2LTAxLzJ0di0wMV9oZC5tM3U4IiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjY3MzkwOTgwfX19XX0_&Signature=J52LTF7TurmGrsiRvu5kI0pfCu9Y3fZUePn2vYilh-mQdnAH9-VLxHHIz78-H6pt~fpeMfxdv0erbXYbmVMOeRByKS9b9bnC-IcrqBXw5IWbMFrRNJ5MUI2uYZlIp3NDHHbp2~~yLWim57ai2VTRV3vNsb41SV7WndSZJQc6mx1Izq1ZJZa9pSfY~qBGkdZByKf~lXBbCBCwQEnzTJWmVoeiTF7DACyzdG3zkwejeSBFm5RbKvn-2QQbBLRhWhu9fAUySYx5Ri5RttDlkjoKBI-6i1aIywyNhN7HvZlwFNE6K~rsw24R-J0hjZ5Vji2M-~~jDiCtrpH7DQFxCaYhVg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1",KBS Drama
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1667391063&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTA2M319fV19&Signature=NzFCGukn6XW5WzLnsqKRs-zOu6XMcB8ZUrjPVKbc6JNVsEiSC2Wnv2WmsK1cjXoMOfWg7JuvBN7FIxuHa8AXWKmkwr2U7bTyZdZ71FNfVOUET7uBvQ62zHCcmfSx~SLfGpXVbjRv3uRc~LrJ7Ba64lkcKH2C4snHhClY8rCAwhPguMsv~VyyVBoLXbferUEana3bu0zJObOo88NA52GKAuQvxPa14ZnIHiGK8EIwlUZYzsK5oAFcJ9ONYODHnK7li6xvhUq7IVOi90v0HZ4dKGfvTuUSc~28Ko4I-LN7URiARpAoIPeQnjrtok58bcROQUcp-fgP-IULbses7EgjHA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1",KBS Joy
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-01/kbsnjoy-01_sd.m3u8?Expires=1667391213&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAxL2tic25qb3ktMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTIxM319fV19&Signature=KhIYY9sAk5z66pfBV1MbiTJok~y3Ahu6UGdVLHQZSuFUK3IYmMPp1ysE-BCer0RRXyroZgJxwd5uqCc0JYE21QBYSXJbnRoxOIG4LuPl9FSJJNuzvapjUyOOy6vyL8s6Vi4THc5Jyp92~WkJwffflwUp6H~Pl07nZplM-j-sCqjqofsk6LFM~5cNkYa1eM3APi2zp-VzGFCmhkLl7TlgiPikearbdTLYvdSMfOOt8pJ99ojed-il4cqTz9MXHjD6hlXQapuAUBA6ipM3T2XeBCmpG1-MFAk8WcEjZV-gDN28BNQ9QXY0qxNhpL7KE0AeD1RUf5~dAJDUxXiVtmfVgA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1",KBS Kids
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Expires=1667391249&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEva2JzbmtpZHMtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTI0OX19fV19&Signature=V7cdKJQZ923UG40a17e2t8ra8XxHjGsgHTC4XPmEPYW6GEftW8joCnDTsuQG45XfEQuETINKYAeXSc1YzQKgBYI6t7FWcYyZ91L~DaQ6PcGpZyfSSOFfLdcmao4uDaj3EWdlRkCCQqhzlSG9PR-r3io8yc6rfouYpCq4y-cDYII9QF4Jwzxb~-SME67izg4qBFyIrZ8OjaaYCZWJLHDXgPNzAJ1xmR7HlwfuHgILTSjPi1QKkLiLjTvJT3Sbq4XZdhYCzplZgvD8DwqWMzI5I47AAGF7mRsdUkAKCA45twW7t61FZ0ITg0bnfIquKoFwCXGrS7alsjEsDFRzz6C95w__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:0 type="stream" channelId="-1",KBS News
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667240245/ei/1bxfY_rjEsPuWarsuKAH/ip/185.22.154.19/id/cGwHB8voxfw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/642500/mh/4V/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667218364/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANaw1s0lLTxdCojBFwy9jzd_HUEsqp2UnGyGQNvkYmXMAiEAixpEFvc6HbnJOb3Ejx9HarrSBZ3OuHGEZg8Ekhe547Y%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALNAVcGMNIYVoF1Qk7JtgFq8TpQfY_xL68pDBOJvzeBHAiAvmi8ovIcFxgh-DA4P0HC1GgSBmQ8ZosjxRzCv7WSxTg%3D%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",KBS Life
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1667391314&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTMxNH19fV19&Signature=JAwE1sKjlrXQ603GUvmzx1Jlt-s~zqGN8QMCkPz1y4TokqtCo42kfC-dpN5Ki7WEj9Mka6xnT8gev27jW2~sAVqq00q0ifvA41lSkVdqdd4-uGH7ncYL43uvZzau-HfR-bnM5FnU4dnkxki0x3ZkjlM3Zao1rw5zUiTFcfXFtfj1kRDycmSq7H8Az1e9XlwrwXx3uXyDllLcEFWawykUNM176mkFHhl8cLmvjG2UXNsqVj1yphwV-fbBegJZl9WWGK3AmJWf7q6YCjr1XRb9nQdsGq-~~oijlbki6~5Q7DC9ctYyaNKgcXN~VqlkU-YInc8xiCfVH0toOA4D88c6IA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+
+
