@@ -81,6 +81,71 @@ https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Expires=1667391
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667240245/ei/1bxfY_rjEsPuWarsuKAH/ip/185.22.154.19/id/cGwHB8voxfw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/642500/mh/4V/mip/2804:14c:5781:9ba4:a9f1:1368:b4b1:d5d5/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667218364/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhANaw1s0lLTxdCojBFwy9jzd_HUEsqp2UnGyGQNvkYmXMAiEAixpEFvc6HbnJOb3Ejx9HarrSBZ3OuHGEZg8Ekhe547Y%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALNAVcGMNIYVoF1Qk7JtgFq8TpQfY_xL68pDBOJvzeBHAiAvmi8ovIcFxgh-DA4P0HC1GgSBmQ8ZosjxRzCv7WSxTg%3D%3D/playlist/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",KBS Life
 https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1667391314&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTMxNH19fV19&Signature=JAwE1sKjlrXQ603GUvmzx1Jlt-s~zqGN8QMCkPz1y4TokqtCo42kfC-dpN5Ki7WEj9Mka6xnT8gev27jW2~sAVqq00q0ifvA41lSkVdqdd4-uGH7ncYL43uvZzau-HfR-bnM5FnU4dnkxki0x3ZkjlM3Zao1rw5zUiTFcfXFtfj1kRDycmSq7H8Az1e9XlwrwXx3uXyDllLcEFWawykUNM176mkFHhl8cLmvjG2UXNsqVj1yphwV-fbBegJZl9WWGK3AmJWf7q6YCjr1XRb9nQdsGq-~~oijlbki6~5Q7DC9ctYyaNKgcXN~VqlkU-YInc8xiCfVH0toOA4D88c6IA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
-
-
+#EXTINF:0 type="stream" channelId="-1",Metro Globe Network
+https://edge.medcom.id:443/live-edge/smil:mgnch.smil/chunklist_w195373732_b3884000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1",MNB
+https://live.mnb.mn:443/live/mnb_world.stream/chunklist_w725982922.m3u8
+#EXTINF:0 type="stream" channelId="-1",Motorvision TV
+https://stream.ads.ottera.tv/cl/ae2e281d-f790-4a7b-88ab-c9488b438c9c/1280x720_1927200_0_f.m3u8
+#EXTINF:0 type="stream" channelId="-1",Myanmar Internacional 
+https://5a13fe32ef748.streamlock.net/mmplay/mitv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Lemar TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/lemartv.m3u8
+#EXTINF:0 type="stream" channelId="-1",NBT World
+https://thainews.prd.go.th:443/lv/live/ch1_L_L.sdp/chunklist_w710079756.m3u8
+#EXTINF:0 type="stream" channelId="-1",Pamir TV
+http://live.stream.cdn.pamirtv.com:80/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:0 type="stream" channelId="-1",RT Documentary Russian
+http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",SKI TV
+https://d2xeo83q8fcni6.cloudfront.net:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/ccc87be5-43d2-481a-b250-aa98a8cac83e/3.m3u8
+#EXTINF:0 type="stream" channelId="-1",Sofy TV
+https://sofy-ger-samsung.amagi.tv:443/playlist720.m3u8
+#EXTINF:0 type="stream" channelId="-1",Solh TV
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1",TRT World
+https://tv-trtworld.live.trt.com.tr:443/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1",TRT Arabi
+https://tv-trtarabi.live.trt.com.tr:443/master_1080.m3u8
+#EXTINF:0 type="stream" channelId="-1",TVM Internacional 
+http://online.tvm.co.mz:1935/live/smil:Channel2.smil/chunklist_w135932527_b714000_slpor.m3u8
+#EXTINF:0 type="stream" channelId="-1",ONU TV
+https://klive.kaltura.com/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_gb6tjmle/tl/main/st/0/t/aRQbOeoBPPZ7uOe3p20ETQ/index-s32.m3u8?__hdnea__=st=1667228613~exp=1667315013~acl=/s/env/cluster-1-d.live.nvp1/live/hls/p/2503451/e/1_gb6tjmle/tl/main/st/0/t/aRQbOeoBPPZ7uOe3p20ETQ/index-s32.m3u8*~hmac=89823ad20d47cc6c2312b18dd3ad009cd30fe5286cdf58870f5fdbbdddead625
+#EXTINF:0 type="stream" channelId="-1",Wordl Fashion Channel 
+https://wfcint.mediacdn.ru:443/cdn/wfcintweb/playlist_hdhigh.m3u8
+#EXTINF:0 type="stream" channelId="-1",World Poker Channel
+https://d3w4n3hhseniak.cloudfront.net:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/9623e9ea-2441-46ab-9aac-4583f30a592b/3.m3u8
+#EXTINF:0 type="stream" channelId="-1",Tolo TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+#EXTINF:0 type="stream" channelId="-1",Tolo News
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
+#EXTINF:0 type="stream" channelId="-1",ABC News
+https://tv2.abcnews.al:443/live/abcnews/chunks.m3u8?nimblesessionid=10511581
+#EXTINF:0 type="stream" channelId="-1",AlbDreams TV
+http://live.albavision.net:1123/live/albdreams.m3u8
+#EXTINF:0 type="stream" channelId="-1",AlbKanale Music
+https://secured.albportal.net:2083/AlbKanaleMusicTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",AlbMusik
+http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w844936773.m3u8
+#EXTINF:0 type="stream" channelId="-1",ALPO TV
+https://5d00db0e0fcd5.streamlock.net:443/7236/7236/chunklist_w1685313303.m3u8
+#EXTINF:0 type="stream" channelId="-1",ATD TV
+http://46.99.146.236/0.m3u8
+#EXTINF:0 type="stream" channelId="-1",Azerbaijan News TV
+https://edge1.socialsmart.tv:443/aznews/smil/aznews/720p/chunks.m3u8?nimblesessionid=331116879
+#EXTINF:0 type="stream" channelId="-1",CNN Germany
+https://cnn-cnninternational-1-de.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNN Turk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Baby TV
+http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+#EXTINF:0 type="stream" channelId="-1",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",BBC America
+https://bcovlive-a.akamaihd.net:443/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",
 
