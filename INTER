@@ -83,7 +83,7 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667240245/ei/
 https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1667391314&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY2NzM5MTMxNH19fV19&Signature=JAwE1sKjlrXQ603GUvmzx1Jlt-s~zqGN8QMCkPz1y4TokqtCo42kfC-dpN5Ki7WEj9Mka6xnT8gev27jW2~sAVqq00q0ifvA41lSkVdqdd4-uGH7ncYL43uvZzau-HfR-bnM5FnU4dnkxki0x3ZkjlM3Zao1rw5zUiTFcfXFtfj1kRDycmSq7H8Az1e9XlwrwXx3uXyDllLcEFWawykUNM176mkFHhl8cLmvjG2UXNsqVj1yphwV-fbBegJZl9WWGK3AmJWf7q6YCjr1XRb9nQdsGq-~~oijlbki6~5Q7DC9ctYyaNKgcXN~VqlkU-YInc8xiCfVH0toOA4D88c6IA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 #EXTINF:0 type="stream" channelId="-1",Metro Globe Network
 https://edge.medcom.id:443/live-edge/smil:mgnch.smil/chunklist_w195373732_b3884000_sleng.m3u8
-#EXTINF:0 type="stream" channelId="-1",MNB
+#EXTINF:0 type="stream" channelId="-1",MNB World
 https://live.mnb.mn:443/live/mnb_world.stream/chunklist_w725982922.m3u8
 #EXTINF:0 type="stream" channelId="-1",Motorvision TV
 https://stream.ads.ottera.tv/cl/ae2e281d-f790-4a7b-88ab-c9488b438c9c/1280x720_1927200_0_f.m3u8
@@ -99,6 +99,8 @@ http://live.stream.cdn.pamirtv.com:80/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/c
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:0 type="stream" channelId="-1",RT Documentary Russian
 http://uiptv.do.am/1ufc/300663722/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",RT Espanhol
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:0 type="stream" channelId="-1",SKI TV
 https://d2xeo83q8fcni6.cloudfront.net:443/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/../../../manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/ccc87be5-43d2-481a-b250-aa98a8cac83e/3.m3u8
 #EXTINF:0 type="stream" channelId="-1",Sofy TV
@@ -145,7 +147,50 @@ http://194.163.179.246/slovenci/djeciji/babytv.m3u8
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",BBC America
 https://bcovlive-a.akamaihd.net:443/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/profile_0/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1",
-#EXTINF:0 type="stream" channelId="-1",
-#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",BTV World
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8?nimblesessionid=830666777
+#EXTINF:0 type="stream" channelId="-1",Duna World
+https://c401-node61-cdn.connectmedia.hu/1103/63c9a16340fc93e204d216ff74af0423/63606f76/index.m3u8?v=5i
+#EXTINF:0 type="stream" channelId="-1",EPTV 1
+http://wpso.com:1936/hls/wzra.m3u8
+#EXTINF:0 type="stream" channelId="-1",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv:443/736d122868dd95d45e077a45767e6f50.m3u8
+#EXTINF:0 type="stream" channelId="-1",Galicia TV
+http://europa-crtvg.flumotion.com:80/crtvg/europa_high/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1",MavTV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.tv:443/3000.m3u8
+#EXTINF:0 type="stream" channelId="-1",News 24
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",NTV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Peace TV Albânia 
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:0 type="stream" channelId="-1",Report TV
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1",RTP
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",SIRY TV
+
+#EXTINF:0 type="stream" channelId="-1",3ABN Internacional 
+https://3abn-live.akamaized.net/hls/live/2010544/International/HQs/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TopEstrada TV
+http://live.topestrada.com:80/live/topestrada/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV 7 Albânia 
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w2102428757.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Apollon
+https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:0 type="stream" channelId="-1",TV Opoja
+http://ip.opoja.tv:1935/tvopoja/tvopoja/chunklist_w854375051.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV3 CAT
+https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master-720p.m3u8
+#EXTINF:0 type="stream" channelId="-1",Abu Dhabi Sports
+https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1",324
+https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master-720p.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Hayat TV
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net:443/AJM/01.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Qamar
+https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
 
