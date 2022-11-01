@@ -169,8 +169,9 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1",RTP
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",RTP África 
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1",SIRY TV
-
 #EXTINF:0 type="stream" channelId="-1",3ABN Internacional 
 https://3abn-live.akamaized.net/hls/live/2010544/International/HQs/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1",TopEstrada TV
@@ -189,8 +190,73 @@ https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/chunkl
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master-720p.m3u8
 #EXTINF:0 type="stream" channelId="-1",Al Hayat TV
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1",Al Jazeera Mubasher
-https://live-hls-web-ajm.getaj.net:443/AJM/01.m3u8
 #EXTINF:0 type="stream" channelId="-1",Al Qamar
 https://cdn5.iqsat.net/iq/8c17d37e0f5c88b1e9c7e1f8f82bc980.sdp/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Jazeera English
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667321340/ei/m_lgY7P0Nq2HjuMP_rq18AU/ip/185.22.154.19/id/F-POY4Q0QSI.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/ctier/SPL/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/636250/mh/fI/mip/2804:14c:5781:9ba4:246e:7678:46f:d8f0/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667299243/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,ctier,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAJ7DxcMhvDzM0i1HHvbMp3rMztNmO8ORvPHoIDanFk5kAiEA7xfRYPYYAxngqZ87b0sWRIaQCfwmPbCT58kzoJKlCNM%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhALB_JTuj9KGxe3V4VfUuqNLsIS441GJ1wDyougo-81UeAiABBxqzmFjaP7a4x9CLDooGeG8gV00Thgtssqara8gjLg%3D%3D/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",Al Jazeera Arabic
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667321549/ei/bfpgY_LXIr-2z7sPjei6yAY/ip/83.138.55.36/id/eJ6ZMd4sVrI.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-oxunxg8pjvn-wujee.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/631250/mh/9_/mip/2804:14c:5781:9ba4:246e:7678:46f:d8f0/mm/44/mn/sn-oxunxg8pjvn-wujee/ms/lva/mv/m/mvi/2/pl/48/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667299484/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRQIgMk_dI7P6KEVZetS6qMF5t6UhRC9H688rs1E7X6JByoECIQDnPDP8wnEbbkAAtYl2Y7Xd-IgS6tVbq-VmRJWeWRB2NA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mip,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgax2JbkB0UFVtk1zdHw-4msYVDn2SSkugMDI4Y3AkBtUCIFqNW6HwMx8w_ODhSzK2dxvLB1yjrXQSQdVk123uj_6f/playlist/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",
+#EXTINF:0 type="stream" channelId="-1",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net:443/AJM/01.m3u8
+#EXTINF:0 type="stream" channelId="-1",Alaraby
+https://alaraby.cdn.octivid.com:443/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:0 type="stream" channelId="-1",Algérie TV3
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Algérie TV4
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Algérie TV5
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net:443/out/v1/dc4aa87372374325a66be458f29eab0f/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNA Internacional 
+https://d2e1asnsl7br7b.cloudfront.net:443/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNA
+https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",CNBC África 
+https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Dubai One
+http://dminnvll.cdn.mangomolo.com:80/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:0 type="stream" channelId="-1",El Bilad
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",El Djazair 
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Ennahar
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC 3 EUR
+https://shls-mbc3-eur-prod-dub.shahid.net:443/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC Bollywood
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC Drama KSA
+https://shls-mbcdramaksa-prod-dub.shahid.net:443/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net:443/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+#EXTINF:0 type="stream" channelId="-1",National Geografic Abu Dhabi
+https://admdn2.cdn.mangomolo.com:443/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:0 type="stream" channelId="-1",PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1",PMC Royale
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:0 type="stream" channelId="-1",SKY News Arabia
+https://stream.skynewsarabia.com:443/hls/sna_720.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV7 Elmaarifa
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV8 Edhakira
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1",Wanasah
+https://shls-wanasah-prod-dub.shahid.net:443/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_2.m3u8
+#EXTINF:0 type="stream" channelId="-1",TVE Internacional Asia-Oceania
+http://210.210.155.37/session/88f5b784-59d9-11ed-a138-b4b8acd70230/uq2663/h/h158/index2.m3u8
+#EXTINF:0 type="stream" channelId="-1",ATV
+https://videos.rtva.ad:443/live/rtva/chunklist_w1760448669.m3u8
+#EXTINF:0 type="stream" channelId="-1",TV Daja
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/chunks.m3u8?nimblesessionid=35160615
+#EXTINF:0 type="stream" channelId="-1",
+
+
+
 
