@@ -27,6 +27,8 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:0 type="stream" channelId="-1",Classic Arts Showcase
 https://classicarts.akamaized.net:443/hls/live/1024257/CAS/master_720p30.m3u8
+#EXTINF:0 type="stream" channelId="-1",MEZZO
+http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTINF:0 type="stream" channelId="-1",CNA Internacional 
 https://d2e1asnsl7br7b.cloudfront.net:443/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:0 type="stream" channelId="-1",DW English
