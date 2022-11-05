@@ -257,8 +257,36 @@ http://210.210.155.37/session/88f5b784-59d9-11ed-a138-b4b8acd70230/uq2663/h/h158
 https://videos.rtva.ad:443/live/rtva/chunklist_w1760448669.m3u8
 #EXTINF:0 type="stream" channelId="-1",TV Daja
 https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/chunks.m3u8?nimblesessionid=35160615
-#EXTINF:0 type="stream" channelId="-1",
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-country="INT" tvg-url="" group-title="",Afrobeats
+https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" tvg-country="INT" tvg-url="" group-title="Religious",Chaine Nord Africaine
+https://live.creacast.com/cna/smil:cna.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/tXTjWgP.png" tvg-country="INT" tvg-url="" group-title="Religious",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Animation
+https://www.djing.com/tv/animation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Classic
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Dance Floor
+https://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="",DJing Ibiza
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" tvg-country="INT" tvg-url="" group-title="Music",DJing Underground
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/ygkBFYT.jpg" tvg-country="INT" tvg-url="" group-title="",Swamiji TV
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/5uIXfol.jpg" tvg-country="INT" tvg-url="" group-title="",The Boat Show
+https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/lPyJhBN.png" tvg-country="INT" tvg-url="" group-title="News",UN Web TV
+https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Ll6GlqY.png" tvg-country="INT" tvg-url="" group-title="Music",V2BEAT TV
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/x6vlBzd.jpg" tvg-country="INT" tvg-url="" group-title="",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
 
