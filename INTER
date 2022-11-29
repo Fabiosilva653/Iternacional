@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="-1",La7
+https://www.la7.it/live-la7d
 #EXTINF:0 type="stream" channelId="-1",Ariana TV National
 https://d10rltuy0iweup.cloudfront.net:443/ATNNAT/myStream/chunklist_w940255164.m3u8
 #EXTINF:0 type="stream" channelId="-1", Ariana TV US
