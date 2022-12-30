@@ -1,6 +1,6 @@
 #EXTM3U 
-grupo,Edem - HD
-ort-hd,ÐŸÐµÑ€Ð²Ñ‹Ð¹ HD,http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/204/index.m3u8
+#EXTINF:0 type="stream" channelId="-1",1
+http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/204/index.m3u8
 rossiya-hd,Ð Ð¾Ñ Ñ Ð¸Ñ HD,http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/205/index.m3u8
 ntv,Ð Ð¢Ð' HD,http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/213/index.m3u8
 tnt,Ð¢Ð Ð¢ HD,http://vdbrt.iptvzone.net/iptv/MEQVLX2R5DE82E/237/index.m3u8
