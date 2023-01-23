@@ -1,3 +1,5 @@
+#EXTINF:0 type="stream" channelId="-1",CCTV
+https://tv.cctv.com/live/cctv2/m/index.shtml?spm=C28340.PFfibrpzDugF.En59pIUdUZS1.4
 
 #EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
